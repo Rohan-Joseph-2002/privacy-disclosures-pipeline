@@ -1,0 +1,4 @@
+app_id,Platform,App_Name,Seller,Safety_Forms,URL,Nodatacollected,Nodatasharedwiththirdparties,Datacollected_Appactivity_Appinteractions_Analytics
+app_and_1,Android,Gamma App,Gamma LLC,forms,http://g.example,0,0,1
+app_and_1,Android,Gamma App,Gamma LLC,forms,http://g.example,0,0,0
+app_and_2,Android,Delta App,Delta LLC,forms,http://d.example,1,0,0

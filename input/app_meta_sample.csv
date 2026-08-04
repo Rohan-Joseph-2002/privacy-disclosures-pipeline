@@ -1,0 +1,5 @@
+app_id,category_name,subcategory_name,cross_store_app_id,initial_release_date
+app_ios_1,Productivity,Tools,cross_1,2023-01-01
+app_ios_2,Social,Networking,cross_2,2023-02-01
+app_and_1,Productivity,Tools,cross_1,2023-01-01
+app_and_2,Games,Casual,cross_3,2023-03-01
