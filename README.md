@@ -3,7 +3,7 @@
 Standalone pipeline that prepares, standardizes, and harmonizes iOS privacy labels and Android
 safety forms into one shared common-label space for cross-platform comparison.
 
-## Why this matters
+## Overview
 
 App-store privacy disclosures use two different frameworks (Apple's privacy labels and Google's
 safety forms), so the same practice is described in incompatible taxonomies. This pipeline
